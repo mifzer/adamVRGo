@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 825aa871792d5f54e8b726fbe91ffe54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Armature.001
+    100006: Camera
+    100008: challenger_dress.001
+    100010: CharSpaceChest
+    100012: CharSpaceChest 1
+    100014: CharSpaceChest_end
+    100016: CharSpaceChest_end 1
+    100018: Chest
+    100020: Chest 1
+    100022: group
+    100024: group1
+    100026: Gut
+    100028: Gut 1
+    100030: Hat0
+    100032: Hat0 1
+    100034: Hat1
+    100036: Hat1 1
+    100038: Hat2
+    100040: Hat2 1
+    100042: Hat2_end
+    100044: Hat2_end 1
+    100046: Head
+    100048: Head 1
+    100050: Hemi
+    100052: Lamp
+    100054: Left_Ankle
+    100056: Left_Ankle 1
+    100058: Left_Ball
+    100060: Left_Ball 1
+    100062: Left_Ball_end
+    100064: Left_Ball_end 1
+    100066: Left_Collar
+    100068: Left_Collar 1
+    100070: Left_Elbow
+    100072: Left_Elbow 1
+    100074: Left_Elbow_roll1
+    100076: Left_Elbow_roll1 1
+    100078: Left_Elbow_roll1_end
+    100080: Left_Elbow_roll1_end 1
+    100082: Left_Elbow_roll2
+    100084: Left_Elbow_roll2 1
+    100086: Left_Elbow_roll2_end
+    100088: Left_Elbow_roll2_end 1
+    100090: Left_ElbowVPJ
+    100092: Left_ElbowVPJ 1
+    100094: Left_ElbowVPJ_end
+    100096: Left_ElbowVPJ_end 1
+    100098: Left_Eye
+    100100: Left_Eye 1
+    100102: Left_Eye_end
+    100104: Left_Eye_end 1
+    100106: Left_Hip
+    100108: Left_Hip 1
+    100110: Left_Hip_roll1
+    100112: Left_Hip_roll1 1
+    100114: Left_Hip_roll1_end
+    100116: Left_Hip_roll1_end 1
+    100118: Left_Index0
+    100120: Left_Index0 1
+    100122: Left_Index1
+    100124: Left_Index1 1
+    100126: Left_Index2
+    100128: Left_Index2 1
+    100130: Left_Index2_end
+    100132: Left_Index2_end 1
+    100134: Left_Knee
+    100136: Left_Knee 1
+    100138: Left_KneeVPJ
+    100140: Left_KneeVPJ 1
+    100142: Left_KneeVPJ_end
+    100144: Left_KneeVPJ_end 1
+    100146: Left_Knot0
+    100148: Left_Knot0 1
+    100150: Left_Knot1
+    100152: Left_Knot1 1
+    100154: Left_Knot1_end
+    100156: Left_Knot1_end 1
+    100158: Left_Middle0
+    100160: Left_Middle0 1
+    100162: Left_Middle1
+    100164: Left_Middle1 1
+    100166: Left_Middle2
+    100168: Left_Middle2 1
+    100170: Left_Middle2_end
+    100172: Left_Middle2_end 1
+    100174: Left_Pinky0
+    100176: Left_Pinky0 1
+    100178: Left_Pinky1
+    100180: Left_Pinky1 1
+    100182: Left_Pinky2
+    100184: Left_Pinky2 1
+    100186: Left_Pinky2_end
+    100188: Left_Pinky2_end 1
+    100190: Left_Ring0
+    100192: Left_Ring0 1
+    100194: Left_Ring1
+    100196: Left_Ring1 1
+    100198: Left_Ring2
+    100200: Left_Ring2 1
+    100202: Left_Ring2_end
+    100204: Left_Ring2_end 1
+    100206: Left_RopeBack0
+    100208: Left_RopeBack0 1
+    100210: Left_RopeBack1
+    100212: Left_RopeBack1 1
+    100214: Left_RopeBack2
+    100216: Left_RopeBack2 1
+    100218: Left_RopeBack2_end
+    100220: Left_RopeBack2_end 1
+    100222: Left_RopeFront0
+    100224: Left_RopeFront0 1
+    100226: Left_RopeFront1
+    100228: Left_RopeFront1 1
+    100230: Left_RopeFront2
+    100232: Left_RopeFront2 1
+    100234: Left_RopeFront2_end
+    100236: Left_RopeFront2_end 1
+    100238: Left_Shoulder
+    100240: Left_Shoulder 1
+    100242: Left_Shoulder_roll1
+    100244: Left_Shoulder_roll1 1
+    100246: Left_Shoulder_roll1_end
+    100248: Left_Shoulder_roll1_end 1
+    100250: Left_Shoulder_roll2
+    100252: Left_Shoulder_roll2 1
+    100254: Left_Shoulder_roll2_end
+    100256: Left_Shoulder_roll2_end 1
+    100258: Left_Thumb0
+    100260: Left_Thumb0 1
+    100262: Left_Thumb1
+    100264: Left_Thumb1 1
+    100266: Left_Thumb2
+    100268: Left_Thumb2 1
+    100270: Left_Thumb2_end
+    100272: Left_Thumb2_end 1
+    100274: Left_Wrist
+    100276: Left_Wrist 1
+    100278: MergedBody_GEO
+    100280: Neck
+    100282: Neck 1
+    100284: Pelvis
+    100286: Pelvis 1
+    100288: Polygon.002
+    100290: Right_Ankle
+    100292: Right_Ankle 1
+    100294: Right_Ball
+    100296: Right_Ball 1
+    100298: Right_Ball_end
+    100300: Right_Ball_end 1
+    100302: Right_Collar
+    100304: Right_Collar 1
+    100306: Right_Elbow
+    100308: Right_Elbow 1
+    100310: Right_ElbowVPJ
+    100312: Right_ElbowVPJ 1
+    100314: Right_ElbowVPJ_end
+    100316: Right_ElbowVPJ_end 1
+    100318: Right_Eye
+    100320: Right_Eye 1
+    100322: Right_Eye_end
+    100324: Right_Eye_end 1
+    100326: Right_Hip
+    100328: Right_Hip 1
+    100330: Right_Index0
+    100332: Right_Index0 1
+    100334: Right_Index1
+    100336: Right_Index1 1
+    100338: Right_Index2
+    100340: Right_Index2 1
+    100342: Right_Index2_end
+    100344: Right_Index2_end 1
+    100346: Right_Knee
+    100348: Right_Knee 1
+    100350: Right_KneeVPJ
+    100352: Right_KneeVPJ 1
+    100354: Right_KneeVPJ_end
+    100356: Right_KneeVPJ_end 1
+    100358: Right_Knot0
+    100360: Right_Knot0 1
+    100362: Right_Knot1
+    100364: Right_Knot1 1
+    100366: Right_Knot1_end
+    100368: Right_Knot1_end 1
+    100370: Right_Left_Elbow_roll1
+    100372: Right_Left_Elbow_roll1 1
+    100374: Right_Left_Elbow_roll1_end
+    100376: Right_Left_Elbow_roll1_end 1
+    100378: Right_Left_Elbow_roll2
+    100380: Right_Left_Elbow_roll2 1
+    100382: Right_Left_Elbow_roll2_end
+    100384: Right_Left_Elbow_roll2_end 1
+    100386: Right_Left_Hip_roll1
+    100388: Right_Left_Hip_roll1 1
+    100390: Right_Left_Hip_roll1_end
+    100392: Right_Left_Hip_roll1_end 1
+    100394: Right_Left_Shoulder_roll1
+    100396: Right_Left_Shoulder_roll1 1
+    100398: Right_Left_Shoulder_roll1_end
+    100400: Right_Left_Shoulder_roll1_end 1
+    100402: Right_Left_Shoulder_roll2
+    100404: Right_Left_Shoulder_roll2 1
+    100406: Right_Left_Shoulder_roll2_end
+    100408: Right_Left_Shoulder_roll2_end 1
+    100410: Right_Middle0
+    100412: Right_Middle0 1
+    100414: Right_Middle1
+    100416: Right_Middle1 1
+    100418: Right_Middle2
+    100420: Right_Middle2 1
+    100422: Right_Middle2_end
+    100424: Right_Middle2_end 1
+    100426: Right_Pinky0
+    100428: Right_Pinky0 1
+    100430: Right_Pinky1
+    100432: Right_Pinky1 1
+    100434: Right_Pinky2
+    100436: Right_Pinky2 1
+    100438: Right_Pinky2_end
+    100440: Right_Pinky2_end 1
+    100442: Right_Ring0
+    100444: Right_Ring0 1
+    100446: Right_Ring1
+    100448: Right_Ring1 1
+    100450: Right_Ring2
+    100452: Right_Ring2 1
+    100454: Right_Ring2_end
+    100456: Right_Ring2_end 1
+    100458: Right_RopeBack0
+    100460: Right_RopeBack0 1
+    100462: Right_RopeBack1
+    100464: Right_RopeBack1 1
+    100466: Right_RopeBack2
+    100468: Right_RopeBack2 1
+    100470: Right_RopeBack2_end
+    100472: Right_RopeBack2_end 1
+    100474: Right_RopeFront0
+    100476: Right_RopeFront0 1
+    100478: Right_RopeFront1
+    100480: Right_RopeFront1 1
+    100482: Right_RopeFront2
+    100484: Right_RopeFront2 1
+    100486: Right_RopeFront2_end
+    100488: Right_RopeFront2_end 1
+    100490: Right_Shoulder
+    100492: Right_Shoulder 1
+    100494: Right_Thumb0
+    100496: Right_Thumb0 1
+    100498: Right_Thumb1
+    100500: Right_Thumb1 1
+    100502: Right_Thumb2
+    100504: Right_Thumb2 1
+    100506: Right_Thumb2_end
+    100508: Right_Thumb2_end 1
+    100510: Right_Wrist
+    100512: Right_Wrist 1
+    100514: Root
+    100516: Root 1
+    100518: RopeBack0
+    100520: RopeBack0 1
+    100522: RopeBack1
+    100524: RopeBack1 1
+    100526: RopeBack2
+    100528: RopeBack2 1
+    100530: RopeBack2_end
+    100532: RopeBack2_end 1
+    100534: Spearmaster_Standard_LOD00_rig
+    100536: Spearmaster_Standard_LOD00_rig 1
+    100538: Spine
+    100540: Spine 1
+    100542: Weapon1RightHand
+    100544: Weapon1RightHand 1
+    100546: Weapon1RightHand_end
+    100548: Weapon1RightHand_end 1
+    100550: Weapon2LeftHand
+    100552: Weapon2LeftHand 1
+    100554: Weapon2LeftHand_end
+    100556: Weapon2LeftHand_end 1
+    400000: //RootNode
+    400002: Armature
+    400004: Armature.001
+    400006: Camera
+    400008: challenger_dress.001
+    400010: CharSpaceChest
+    400012: CharSpaceChest 1
+    400014: CharSpaceChest_end
+    400016: CharSpaceChest_end 1
+    400018: Chest
+    400020: Chest 1
+    400022: group
+    400024: group1
+    400026: Gut
+    400028: Gut 1
+    400030: Hat0
+    400032: Hat0 1
+    400034: Hat1
+    400036: Hat1 1
+    400038: Hat2
+    400040: Hat2 1
+    400042: Hat2_end
+    400044: Hat2_end 1
+    400046: Head
+    400048: Head 1
+    400050: Hemi
+    400052: Lamp
+    400054: Left_Ankle
+    400056: Left_Ankle 1
+    400058: Left_Ball
+    400060: Left_Ball 1
+    400062: Left_Ball_end
+    400064: Left_Ball_end 1
+    400066: Left_Collar
+    400068: Left_Collar 1
+    400070: Left_Elbow
+    400072: Left_Elbow 1
+    400074: Left_Elbow_roll1
+    400076: Left_Elbow_roll1 1
+    400078: Left_Elbow_roll1_end
+    400080: Left_Elbow_roll1_end 1
+    400082: Left_Elbow_roll2
+    400084: Left_Elbow_roll2 1
+    400086: Left_Elbow_roll2_end
+    400088: Left_Elbow_roll2_end 1
+    400090: Left_ElbowVPJ
+    400092: Left_ElbowVPJ 1
+    400094: Left_ElbowVPJ_end
+    400096: Left_ElbowVPJ_end 1
+    400098: Left_Eye
+    400100: Left_Eye 1
+    400102: Left_Eye_end
+    400104: Left_Eye_end 1
+    400106: Left_Hip
+    400108: Left_Hip 1
+    400110: Left_Hip_roll1
+    400112: Left_Hip_roll1 1
+    400114: Left_Hip_roll1_end
+    400116: Left_Hip_roll1_end 1
+    400118: Left_Index0
+    400120: Left_Index0 1
+    400122: Left_Index1
+    400124: Left_Index1 1
+    400126: Left_Index2
+    400128: Left_Index2 1
+    400130: Left_Index2_end
+    400132: Left_Index2_end 1
+    400134: Left_Knee
+    400136: Left_Knee 1
+    400138: Left_KneeVPJ
+    400140: Left_KneeVPJ 1
+    400142: Left_KneeVPJ_end
+    400144: Left_KneeVPJ_end 1
+    400146: Left_Knot0
+    400148: Left_Knot0 1
+    400150: Left_Knot1
+    400152: Left_Knot1 1
+    400154: Left_Knot1_end
+    400156: Left_Knot1_end 1
+    400158: Left_Middle0
+    400160: Left_Middle0 1
+    400162: Left_Middle1
+    400164: Left_Middle1 1
+    400166: Left_Middle2
+    400168: Left_Middle2 1
+    400170: Left_Middle2_end
+    400172: Left_Middle2_end 1
+    400174: Left_Pinky0
+    400176: Left_Pinky0 1
+    400178: Left_Pinky1
+    400180: Left_Pinky1 1
+    400182: Left_Pinky2
+    400184: Left_Pinky2 1
+    400186: Left_Pinky2_end
+    400188: Left_Pinky2_end 1
+    400190: Left_Ring0
+    400192: Left_Ring0 1
+    400194: Left_Ring1
+    400196: Left_Ring1 1
+    400198: Left_Ring2
+    400200: Left_Ring2 1
+    400202: Left_Ring2_end
+    400204: Left_Ring2_end 1
+    400206: Left_RopeBack0
+    400208: Left_RopeBack0 1
+    400210: Left_RopeBack1
+    400212: Left_RopeBack1 1
+    400214: Left_RopeBack2
+    400216: Left_RopeBack2 1
+    400218: Left_RopeBack2_end
+    400220: Left_RopeBack2_end 1
+    400222: Left_RopeFront0
+    400224: Left_RopeFront0 1
+    400226: Left_RopeFront1
+    400228: Left_RopeFront1 1
+    400230: Left_RopeFront2
+    400232: Left_RopeFront2 1
+    400234: Left_RopeFront2_end
+    400236: Left_RopeFront2_end 1
+    400238: Left_Shoulder
+    400240: Left_Shoulder 1
+    400242: Left_Shoulder_roll1
+    400244: Left_Shoulder_roll1 1
+    400246: Left_Shoulder_roll1_end
+    400248: Left_Shoulder_roll1_end 1
+    400250: Left_Shoulder_roll2
+    400252: Left_Shoulder_roll2 1
+    400254: Left_Shoulder_roll2_end
+    400256: Left_Shoulder_roll2_end 1
+    400258: Left_Thumb0
+    400260: Left_Thumb0 1
+    400262: Left_Thumb1
+    400264: Left_Thumb1 1
+    400266: Left_Thumb2
+    400268: Left_Thumb2 1
+    400270: Left_Thumb2_end
+    400272: Left_Thumb2_end 1
+    400274: Left_Wrist
+    400276: Left_Wrist 1
+    400278: MergedBody_GEO
+    400280: Neck
+    400282: Neck 1
+    400284: Pelvis
+    400286: Pelvis 1
+    400288: Polygon.002
+    400290: Right_Ankle
+    400292: Right_Ankle 1
+    400294: Right_Ball
+    400296: Right_Ball 1
+    400298: Right_Ball_end
+    400300: Right_Ball_end 1
+    400302: Right_Collar
+    400304: Right_Collar 1
+    400306: Right_Elbow
+    400308: Right_Elbow 1
+    400310: Right_ElbowVPJ
+    400312: Right_ElbowVPJ 1
+    400314: Right_ElbowVPJ_end
+    400316: Right_ElbowVPJ_end 1
+    400318: Right_Eye
+    400320: Right_Eye 1
+    400322: Right_Eye_end
+    400324: Right_Eye_end 1
+    400326: Right_Hip
+    400328: Right_Hip 1
+    400330: Right_Index0
+    400332: Right_Index0 1
+    400334: Right_Index1
+    400336: Right_Index1 1
+    400338: Right_Index2
+    400340: Right_Index2 1
+    400342: Right_Index2_end
+    400344: Right_Index2_end 1
+    400346: Right_Knee
+    400348: Right_Knee 1
+    400350: Right_KneeVPJ
+    400352: Right_KneeVPJ 1
+    400354: Right_KneeVPJ_end
+    400356: Right_KneeVPJ_end 1
+    400358: Right_Knot0
+    400360: Right_Knot0 1
+    400362: Right_Knot1
+    400364: Right_Knot1 1
+    400366: Right_Knot1_end
+    400368: Right_Knot1_end 1
+    400370: Right_Left_Elbow_roll1
+    400372: Right_Left_Elbow_roll1 1
+    400374: Right_Left_Elbow_roll1_end
+    400376: Right_Left_Elbow_roll1_end 1
+    400378: Right_Left_Elbow_roll2
+    400380: Right_Left_Elbow_roll2 1
+    400382: Right_Left_Elbow_roll2_end
+    400384: Right_Left_Elbow_roll2_end 1
+    400386: Right_Left_Hip_roll1
+    400388: Right_Left_Hip_roll1 1
+    400390: Right_Left_Hip_roll1_end
+    400392: Right_Left_Hip_roll1_end 1
+    400394: Right_Left_Shoulder_roll1
+    400396: Right_Left_Shoulder_roll1 1
+    400398: Right_Left_Shoulder_roll1_end
+    400400: Right_Left_Shoulder_roll1_end 1
+    400402: Right_Left_Shoulder_roll2
+    400404: Right_Left_Shoulder_roll2 1
+    400406: Right_Left_Shoulder_roll2_end
+    400408: Right_Left_Shoulder_roll2_end 1
+    400410: Right_Middle0
+    400412: Right_Middle0 1
+    400414: Right_Middle1
+    400416: Right_Middle1 1
+    400418: Right_Middle2
+    400420: Right_Middle2 1
+    400422: Right_Middle2_end
+    400424: Right_Middle2_end 1
+    400426: Right_Pinky0
+    400428: Right_Pinky0 1
+    400430: Right_Pinky1
+    400432: Right_Pinky1 1
+    400434: Right_Pinky2
+    400436: Right_Pinky2 1
+    400438: Right_Pinky2_end
+    400440: Right_Pinky2_end 1
+    400442: Right_Ring0
+    400444: Right_Ring0 1
+    400446: Right_Ring1
+    400448: Right_Ring1 1
+    400450: Right_Ring2
+    400452: Right_Ring2 1
+    400454: Right_Ring2_end
+    400456: Right_Ring2_end 1
+    400458: Right_RopeBack0
+    400460: Right_RopeBack0 1
+    400462: Right_RopeBack1
+    400464: Right_RopeBack1 1
+    400466: Right_RopeBack2
+    400468: Right_RopeBack2 1
+    400470: Right_RopeBack2_end
+    400472: Right_RopeBack2_end 1
+    400474: Right_RopeFront0
+    400476: Right_RopeFront0 1
+    400478: Right_RopeFront1
+    400480: Right_RopeFront1 1
+    400482: Right_RopeFront2
+    400484: Right_RopeFront2 1
+    400486: Right_RopeFront2_end
+    400488: Right_RopeFront2_end 1
+    400490: Right_Shoulder
+    400492: Right_Shoulder 1
+    400494: Right_Thumb0
+    400496: Right_Thumb0 1
+    400498: Right_Thumb1
+    400500: Right_Thumb1 1
+    400502: Right_Thumb2
+    400504: Right_Thumb2 1
+    400506: Right_Thumb2_end
+    400508: Right_Thumb2_end 1
+    400510: Right_Wrist
+    400512: Right_Wrist 1
+    400514: Root
+    400516: Root 1
+    400518: RopeBack0
+    400520: RopeBack0 1
+    400522: RopeBack1
+    400524: RopeBack1 1
+    400526: RopeBack2
+    400528: RopeBack2 1
+    400530: RopeBack2_end
+    400532: RopeBack2_end 1
+    400534: Spearmaster_Standard_LOD00_rig
+    400536: Spearmaster_Standard_LOD00_rig 1
+    400538: Spine
+    400540: Spine 1
+    400542: Weapon1RightHand
+    400544: Weapon1RightHand 1
+    400546: Weapon1RightHand_end
+    400548: Weapon1RightHand_end 1
+    400550: Weapon2LeftHand
+    400552: Weapon2LeftHand 1
+    400554: Weapon2LeftHand_end
+    400556: Weapon2LeftHand_end 1
+    2000000: Camera
+    2100000: Mat.001
+    2100002: Material.001
+    2100004: Material.002
+    2300000: challenger_dress.001
+    2300002: Polygon.002
+    3300000: challenger_dress.001
+    3300002: Polygon.002
+    4300000: Polygon.002
+    4300002: challenger_dress.001
+    4300004: MergedBody_GEO
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Lamp
+    13700000: MergedBody_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.001
+    second: {fileID: 2100000, guid: 1e32e00796e949341bf0eba24af6eefa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 856c702597e377a4d83cf8f4425b317b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 9482487cf24366f4799956dea2f78bb6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
