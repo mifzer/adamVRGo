@@ -52,6 +52,7 @@ public class Laser : MonoBehaviour {
         RaycastHit hit;
         if (Physics.Raycast(transform.position, transform.forward, out hit))
         {
+            
             if (hit.collider)
             {
                 laser.SetPosition(1, hit.point);
@@ -88,7 +89,18 @@ public class Laser : MonoBehaviour {
                     {
                         NodeUI.nodeUIInstance.Sell();
                     }
-
+                    else if (hit.collider.tag == "Next")
+                    {
+                        EndCutscene.endCutInstance.ChangeSpriteAdd();
+                    }
+                    else if (hit.collider.tag == "Prev")
+                    {
+                        EndCutscene.endCutInstance.ChangeSpriteMin();
+                    }
+                    else if (hit.collider.tag == "Exit")
+                    {
+                        Application.Quit();
+                    }
                     else{
                         Application.LoadLevel(nextScene);
                         Destroy(hit.transform.gameObject);
